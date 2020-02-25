@@ -1,0 +1,45 @@
+.nv-right{
+    float: right !important ;
+}
+.pink-bg{
+
+    border-radius: 10px;
+}
+.container{
+    margin-bottom: 100px;
+}
+.carousel-item{
+    padding: 20px 40px;
+
+}
+.buy-now{
+    background:black;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+
+}
+.carousel-bg{
+    background-image: url("image/biography-bg.png");
+    background-repeat: none;
+    width: 100%;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card4{
+    margin: 10px;
+    
+}
+p{
+    color: gray;
+    align-self: baseline;
+}
+#categories{
+    text-underline-position: auto;
+    text-align: center;
+}
