@@ -1,6 +1,4 @@
-.nv-right{
-    float: right !important ;
-}
+
 .pink-bg{
 
     border-radius: 10px;
@@ -42,4 +40,21 @@ p{
 #categories{
     text-underline-position: auto;
     text-align: center;
+}    
+
+
+footer{
+    text-align: center;
+    padding: 10px;
+}
+.container5{
+    margin: 100px;
+    size: 50px;
+    height: 350px;
+    background-color: white
+    border-radius: 40px;
+}
+.container5 button{
+    margin-top: 10px;
+    
 }
